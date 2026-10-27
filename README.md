@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 গুরুত্বপূর্ণ লিংক (Links)
-- **Live Deployment Link:** [https://bazardor-assignment7.vercel.app](https://bazardor-assignment7.vercel.app) *(Deploy on Vercel)*
+- **Live Deployment Link:** [https://bazar-dor-2026-delta.vercel.app](https://bazar-dor-2026-delta.vercel.app/) *(Deploy on Vercel)*
 - **GitHub Repository Link:** [https://github.com/razzak-dev007/Bazar-Dor-2026](https://github.com/razzak-dev007/Bazar-Dor-2026)
 
 ---
