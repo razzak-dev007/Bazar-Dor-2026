@@ -6,7 +6,7 @@
 
 ## 🔗 গুরুত্বপূর্ণ লিংক (Links)
 - **Live Deployment Link:** [https://bazardor-assignment7.vercel.app](https://bazardor-assignment7.vercel.app) *(Deploy on Vercel)*
-- **GitHub Repository Link:** [https://github.com/your-username/B14-A7-Bazar-Dor](https://github.com/your-username/B14-A7-Bazar-Dor)
+- **GitHub Repository Link:** [https://github.com/razzak-dev007/Bazar-Dor-2026](https://github.com/razzak-dev007/Bazar-Dor-2026)
 
 ---
 
@@ -52,8 +52,8 @@
 
 ১. রিপোজিটরিটি ক্লোন করুন:
 ```bash
-git clone https://github.com/your-username/B14-A7-Bazar-Dor.git
-cd B14-A7-Bazar-Dor
+git clone https://github.com/razzak-dev007/Bazar-Dor-2026.git
+cd Bazar-Dor-2026
 ```
 
 ২. প্যাকেজগুলো ইন্সটল করুন:
